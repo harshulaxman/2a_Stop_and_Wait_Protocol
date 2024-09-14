@@ -1,4 +1,4 @@
-# 2a_Stop_and_Wait_Protocol
+# EX- 2a: Stop_and_Wait_Protocol
 
 ### Name: Harsshitha lakshmanan
 ### Register no: 212223230075
