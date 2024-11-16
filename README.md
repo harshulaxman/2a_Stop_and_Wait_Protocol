@@ -1,7 +1,8 @@
+# DATE:
 # EX- 2a: Stop_and_Wait_Protocol
 
-### Name: Harsshitha lakshmanan
-### Register no: 212223230075
+## Name: Harsshitha lakshmanan
+## Register no: 212223230075
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
